@@ -1,0 +1,26 @@
+{
+  "name": "Bowling_score",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bowling.js",
+  "directories": {
+  },
+  "scripts": {
+    "test": "mocha --watch tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles1104/Bowling-Score.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charles1104/Bowling-Score/issues"
+  },
+  "homepage": "https://github.com/Charles1104/Bowling-Score#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
